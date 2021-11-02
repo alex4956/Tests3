@@ -1,0 +1,2 @@
+# Mystories
+Django project
