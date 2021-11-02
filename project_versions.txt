@@ -1,1 +1,1 @@
-1.0 - Установлены Django и Django REST Framework
+1.0 - Установлены Django и Django REST Framework    02/11/2021
